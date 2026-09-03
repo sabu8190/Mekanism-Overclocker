@@ -1,0 +1,11 @@
+{
+    "mekanism_overclocker.config.enableItemOverclock": "アイテムオーバークロック有効化",
+    "mekanism_overclocker.config.itemBurstPerTick": "1Tickあたりの最大アイテムスタック数",
+    "mekanism_overclocker.config.itemEjectTickDelay": "アイテム搬出遅延Tick",
+    "mekanism_overclocker.config.enableFluidOverclock": "液体オーバークロック有効化",
+    "mekanism_overclocker.config.fluidBurstPerTick": "1Tickあたりの最大液体転送回数",
+    "mekanism_overclocker.config.enableChemicalOverclock": "ガス・化学物質オーバークロック有効化",
+    "mekanism_overclocker.config.chemicalBurstPerTick": "1Tickあたりの最大ガス転送回数",
+    "mekanism_overclocker.config.enableEnergyOverclock": "エネルギーオーバークロック有効化",
+    "mekanism_overclocker.config.energyBurstPerTick": "1Tickあたりの最大送電回数"
+}

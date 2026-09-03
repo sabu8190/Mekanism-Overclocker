@@ -1,0 +1,11 @@
+{
+    "mekanism_overclocker.config.enableItemOverclock": "Enable Item Overclocking",
+    "mekanism_overclocker.config.itemBurstPerTick": "Max Item Stacks per Tick",
+    "mekanism_overclocker.config.itemEjectTickDelay": "Item Eject Tick Delay",
+    "mekanism_overclocker.config.enableFluidOverclock": "Enable Fluid Overclocking",
+    "mekanism_overclocker.config.fluidBurstPerTick": "Max Fluid Bursts per Tick",
+    "mekanism_overclocker.config.enableChemicalOverclock": "Enable Chemical/Gas Overclocking",
+    "mekanism_overclocker.config.chemicalBurstPerTick": "Max Chemical/Gas Bursts per Tick",
+    "mekanism_overclocker.config.enableEnergyOverclock": "Enable Energy Overclocking",
+    "mekanism_overclocker.config.energyBurstPerTick": "Max Energy Bursts per Tick"
+}
