@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: mekanism_overclocker
+Specification-Vendor: Antigravity
+Specification-Version: 1
+Implementation-Title: MekanismOverclocker
+Implementation-Version: 1.20.1-1.0.0
+Implementation-Vendor: Antigravity
+Implementation-Timestamp: 2026-09-03T18:38:09+0900
+MixinConfigs: mekanism_overclocker.mixins.json
+

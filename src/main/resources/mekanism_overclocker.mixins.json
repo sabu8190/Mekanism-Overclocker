@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.mekanismoverclocker.mixin",
+  "plugin": "com.mekanismoverclocker.mixin.MekanismOverclockerMixinPlugin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mekanism_overclocker.refmap.json",
+  "mixins": [
+    "LogisticalTransporterBaseMixin",
+    "MechanicalPipeMixin",
+    "BoxedPressurizedTubeMixin",
+    "UniversalCableMixin",
+    "TileComponentEjectorMixin",
+    "opt.OverclockBasicInventorySlotMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
